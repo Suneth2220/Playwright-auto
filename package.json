@@ -1,0 +1,19 @@
+{
+  "name": "playwright-auto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report"
+  },
+  "keywords": ["playwright", "testing", "singlish", "sinhala"],
+  "author": "Suneth2220",
+  "license": "ISC",
+  "description": "Automated testing for Singlish to Sinhala translation system using Playwright",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.1.0"
+  }
+}

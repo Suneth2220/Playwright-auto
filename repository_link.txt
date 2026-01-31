@@ -1,0 +1,30 @@
+GitHub Repository Link - Playwright Auto Testing Project
+========================================================
+
+Repository URL: https://github.com/Suneth2220/Playwright-auto
+
+PROJECT INFORMATION:
+-------------------
+1. This repository contains the complete Playwright testing project
+2. The repository is set to PUBLIC access (no login required)
+3. All test files, configuration files, and documentation are included
+4. Please replace YOUR-USERNAME with the actual GitHub username
+
+REPOSITORY CONTENTS:
+--------------------
+- tests/ directory with all test specifications
+- playwright.config.js for test configuration
+- package.json with dependencies
+- README.md with comprehensive instructions
+- Helper scripts for debugging and inspection
+
+TEST EXECUTION COMMANDS:
+------------------------
+npm install              # Install dependencies
+npx playwright install   # Install browsers
+npm test                 # Run all tests
+npm run test:report      # View test results
+
+For detailed instructions, please refer to README.md in the repository.
+
+Last Updated: January 31, 2026
